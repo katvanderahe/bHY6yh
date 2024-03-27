@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rubrica 9 [Krakow, lat 700 III Transcription]</title>
+        <author ref="#per-c7y65a">Geremia da Montagnone</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Katrina Van Der Ahe</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Rubrica 9 [Krakow, lat 700 III Transcription]</title>
+          <date when="2024-03-26">March 26, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-pol7d7">Krakow, Biblioteka Jagiellonska, MS lat. 700 III (CC.VIII.25)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-05-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="136-r"/>
+        <cb ed="#K" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="bHY6yh-d63059"><!-- p3l5-r9 -->
+        <head xml:id="bHY6yh-d63059-Hd1e108">Rubrica 9</head>
+        <head xml:id="bHY6yh-d63059-Hd1e111" type="question-title">De Tacendis secretis et celandis: et propalatione eorum</head>
+        <p xml:id="bHY6yh-d63059-d1e114">
+          De se<lb ed="#K" break="no"/>cretis 
+          tacendis et celandis 
+          <lb ed="#K"/>et propalatione eorum. Rubrica. 9
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e121">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e118">SAlomon in prouerbiis c. 23.</ref> 
+          <lb ed="#K"/> <quote xml:id="bHY6yh-d63059-Qd1e127">In auribus insipientium ne loquaris: 
+          <lb ed="#K"/>quia despicient doctrinam elo<lb ed="#K" break="no"/>quii 
+          tui.</quote> 
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e139">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e139"><sic>Icsus</sic> filius sirach. in ecclesiast. c. 22.</ref> <quote xml:id="bHY6yh-d63059-Qd1e143">Qui Narrat verbum non 
+          <lb ed="#K"/>attendenti quasi qui excitat 
+          <lb ed="#K"/>dormientem a graui somno 
+          <lb ed="#K"/>Cum dormiente loquitur qui 
+          <lb ed="#K"/>narrat stulto sapientiam: et 
+          <lb ed="#K"/>in fine narrationis dicet 
+          <lb ed="#K"/>quis est hic Cum stulto non 
+          <lb ed="#K"/>multum loquaris.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e158">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e162">Ouidius sine titulo: seu amorum. li. 3. c. 7.</ref> <quote xml:id="bHY6yh-d63059-Qd1e162">Quid 
+          <lb ed="#K"/>iuuat ad surdas si cantet 
+          <lb ed="#K"/>phyneus aures</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e168">
+            <pb ed="#K" n="136-v"/>
+            <cb ed="#K" n="a"/>
+          <lb ed="#K" n="1"/> <ref xml:id="bHY6yh-d63059-Rd1e174">Mattheus in euangelio. c. 7.</ref> <quote xml:id="bHY6yh-d63059-Qd1e172">Nolite 
+          <lb ed="#K"/>sanctum dare canibus: neque mit<lb ed="#K" break="no"/>tatis 
+          margaritas vestras 
+          <lb ed="#K"/>ante porcos ne forte con<lb ed="#K" break="no"/>culcent
+          eas pedibus suis: 
+          <lb ed="#K"/>et conuersi disrumpant vos.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e182">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e190">Seneca: epistolarum ad lucillum. 
+          <lb ed="#K"/>lib. 4. c 8. et fi.</ref> <quote xml:id="bHY6yh-d63059-Qd1e186">Nulli non au<lb ed="#K" break="no"/>dituro 
+          dicendum est.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e192">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e203">Paulus <sic>apstolus</sic> epistola. 2 ad timotheum. c. 2.</ref> 
+          <lb ed="#K"/> <quote xml:id="bHY6yh-d63059-Qd1e196">Noli verbis contendem. ad ni<lb ed="#K" break="no"/>hil 
+          enim vtile est nisi 
+          <lb ed="#K"/>ad subuersionem audientium 
+          <lb ed="#K"/>Prophana et inaniloquia 
+          <lb ed="#K"/>deuita.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e206">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e222">Lex cod. ti. de donationibus. l. fina.</ref> <quote xml:id="bHY6yh-d63059-Qd1e210">Quid verbis opus 
+          <lb ed="#K"/>est que rerum effectus nullus 
+          <lb ed="#K"/>sequitur.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e218">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e236">Auctor l de for. honeste vite. c. 2.</ref> <quote xml:id="bHY6yh-d63059-Qd1e222">Sermo tuus 
+          <lb ed="#K"/>non sit inanis: sed aut sua<lb ed="#K" break="no"/>deat:
+          aut moneat: aut consoletur: 
+          <lb ed="#K"/>aut precipiat Sermones v<lb ed="#K" break="no"/>tiles
+          magisquam facetos 
+          <lb ed="#K"/>et affabiles amarectos 
+          <lb ed="#K"/>potius quam obsecundantes.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e235">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e255">Macrobius saturnaliorum. l. i. 
+          <lb ed="#K"/>in prohemio.</ref> <quote xml:id="bHY6yh-d63059-Qd1e239">Superfluum video 
+          <lb ed="#K"/>inter sapientes nota preferre.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e247"> 
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e268">Li. 2 c. 18.</ref> <quote xml:id="bHY6yh-d63059-Qd1e249">Exauditior 
+          <lb ed="#K"/>liberii Nimium altercando 
+          <lb ed="#K"/>veritas amittitur</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e255">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e280">Cassiodorus epistolarum. l. 2. c. 39.</ref> <quote xml:id="bHY6yh-d63059-Qd1e259">Semper 
+          <lb ed="#K"/>gratum est de doctrina conlo<lb ed="#K" break="no"/>qui 
+          cum peritis.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e267">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e294">Isydorus in synonima soliloquiorum: li. 2 c. 31.</ref> <quote xml:id="bHY6yh-d63059-Qd1e271">Qui 
+          <lb ed="#K"/>ociosa verba non reprimit
+          <lb ed="#K"/>ad noxia cito transit. Sit ser<lb ed="#K" break="no"/>mo 
+          tuus irreprehensibilis: 
+          <lb ed="#K"/>sit expectationi audientium 
+            <cb ed="#K" n="b"/>
+          <lb ed="#K"/>vtilis.</quote>
+        </p>
+        <p xml:id="bHY6yh-d63059-d1e281">
+          <lb ed="#K"/> <ref xml:id="bHY6yh-d63059-Rd1e311">Mattheus: vindocinensis de hystoria tobie. c. 30.</ref> <quote xml:id="bHY6yh-d63059-Qd1e285">Ser<lb ed="#K" break="no"/>mones 
+          sapiens fructifi<lb ed="#K" break="no"/>care 
+          facit</quote>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
