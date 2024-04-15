@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rubrica 7 [Krakow, lat 700 III Transcription]</title>
+            <author ref="#per-c7y65a">Geremia da Montagnone</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name>Katrina Van Der Ahe</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Rubrica 7 [Krakow, lat 700 III Transcription]</title>
+               <date when="2024-04-14">April 14, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="K" n="cod-pol7d7">Krakow, Biblioteka Jagiellonska, MS lat. 700 III (CC.VIII.25)</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-18" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#K" n="142-v"/>
+            <cb ed="#K" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bHY6yh-d65839"><!-- p3l6-r7 -->
+            <head xml:id="bHY6yh-d65839-Hd1e108">Rubrica 7</head>
+            <head xml:id="bHY6yh-d65839-Hd1e111" type="question-title">De locutione illatiua passionis animi et electis exemplis huiusmodi</head>
+            <p xml:id="bHY6yh-d65839-d1e114">
+              <lb ed="#K"/>De eloquutione illatiua passionis 
+              <lb ed="#K"/>animi et electis exemplis 
+              <lb ed="#K"/>huius. Rubrica.7
+            </p>
+            <p xml:id="bHY6yh-d65839-d1e123">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d65839-Rd1e120">ARisto. petho. li. 3. et fi. c 8.</ref> 
+              <lb ed="#K"/> <quote xml:id="bHY6yh-d65839-Qd1e129">Decentia habebit locutio si sit 
+              <lb ed="#K"/>passionis illatiua sed
+              <lb ed="#K"/>aliquid. Illatiua passionis 
+              <lb ed="#K"/>locutio est: si quid sit con<lb ed="#K" break="no"/>tumelia 
+              irascentis locutio
+              <lb ed="#K"/>Si autem impia et turpis 
+              <lb ed="#K"/>moleste ferendo et veren<lb ed="#K" break="no"/>do 
+              etiam dicere. Si autem 
+                <pb ed="#K" n="143-r"/>
+                <cb ed="#K" n="a"/>
+              <lb ed="#K" n="1"/>laudabilis hilariter. Si autem 
+              <lb ed="#K"/>miserabilis: miserabiliter 
+              <lb ed="#K"/>et in aliis autem similiter. S<lb ed="#K" break="no"/>imul 
+              compatitur qui audit 
+              <lb ed="#K"/>semper eum qui loquitur pas<lb ed="#K" break="no"/>sionabiliter. 
+              Si mollia rigi<lb ed="#K" break="no"/>de: 
+              et dura suauiter dicuntur: 
+              <lb ed="#K"/>impersuasibile fit. Nomina
+              <lb ed="#K"/>dupla et ad iectiua plura 
+              <lb ed="#K"/>et extranea maxime con<lb ed="#K" break="no"/>gruunt
+              loquenti passiona<lb ed="#K" break="no"/>biliter 
+              Indulgetur enim ira<lb ed="#K" break="no"/>to 
+              malum imanifestare 
+              <lb ed="#K"/>prolixe: aut immensum di<lb ed="#K" break="no"/>cere.</quote>
+            </p>
+            <p xml:id="bHY6yh-d65839-d1e163">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d65839-Rd1e163">Oratius in poetria.</ref> <quote xml:id="bHY6yh-d65839-Qd1e167">Ut ridentibus arrident:
+              <lb ed="#K"/>ita flentibus assunt. humani 
+              <lb ed="#K"/>vultus Si vis me flere: 
+              <lb ed="#K"/>dolendum est Primum ipsi tibi: 
+              <lb ed="#K"/>tunc tua me infortunia 
+              <lb ed="#K"/>ledent tristia mestum 
+              <lb ed="#K"/>Uultum verba decent iratum 
+              <lb ed="#K"/>plena minarum Lundentem 
+              <lb ed="#K"/>lasciuia: serenum seria dicta.</quote>
+            </p>
+            <p xml:id="bHY6yh-d65839-d1e191">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d65839-Rd1e193">Tullius de oratore: li. 2.</ref> <quote xml:id="bHY6yh-d65839-Qd1e195">Nihil 
+              <lb ed="#K"/>est in dicendo maius quam vt faue<lb ed="#K" break="no"/>at <!--review-->
+              oratori is qui audiet 
+              <lb ed="#K"/>vtque ipse sic moueatur 
+              <lb ed="#K"/>vt impetum quodam animi 
+              <lb ed="#K"/>et perturbatione magis quam 
+              <lb ed="#K"/>iudicio aut consilio regatur. 
+              <lb ed="#K"/>Facilius est currentem in<lb ed="#K" break="no"/>citare 
+              quam commoueri 
+              <lb ed="#K"/>languentem.</quote>
+            </p>
+            <p xml:id="bHY6yh-d65839-d1e209">
+                <!--no ref--> <quote xml:id="bHY6yh-d65839-Qd1e213">Non fieri potest vt 
+                <lb ed="#K"/>doleat is qui auditaut 
+                <lb ed="#K"/>oderit: vt inuideat: vt 
+                <lb ed="#K"/>pertimescat aliquid: vt af<lb ed="#K" break="no"/>fectet: 
+                <sic>n</sic> misericordiam<lb ed="#K" break="no"/>que 
+                  <cb ed="#K" n="b"/>
+                deducatur nisi omnes illi
+                <lb ed="#K"/>motus quos orator ad<lb ed="#K" break="no"/>hibere 
+                vult iudici in ipso 
+                <lb ed="#K"/>oratore impressi esse ac im<lb ed="#K" break="no"/>mixti 
+                videantur. Non est 
+                <lb ed="#K"/>facile perficere vt irascatur 
+                <lb ed="#K"/>ei quo tum velis iudex si 
+                <lb ed="#K"/>tuipse id lente ferre vi<lb ed="#K" break="no"/>deare: 
+                neque vt oderit eum 
+                <lb ed="#K"/>quem tu velis: nisi teipsum 
+                <lb ed="#K"/>flagitantem odio ante viderit: 
+                <lb ed="#K"/>neque ad misericordiam addu<lb ed="#K" break="no"/>cetur: 
+                nisi tu ei signa doloris 
+                <lb ed="#K"/>tui verbis voce vultu cum 
+                <lb ed="#K"/>lachrymatione denique ostenderis. 
+                <lb ed="#K"/>Ut nulla materies tam 
+                <lb ed="#K"/>facilis ad exardendum est: 
+                <lb ed="#K"/>que nisi admota igni 
+                <lb ed="#K"/>ignem concipere possit: sic 
+                <lb ed="#K"/>nulla mens est tam ad 
+                <lb ed="#K"/>comprehendendum vim ora<lb ed="#K" break="no"/>toris 
+                parata que possit 
+                <lb ed="#K"/>incendi: nisi ipse inflamma<lb ed="#K" break="no"/>tus 
+                ad eam et ardens 
+                <lb ed="#K"/>accesserit. Ipsa natura 
+                <lb ed="#K"/>orationis eius que suscipitur 
+                <lb ed="#K"/>ad aliorum animos promouen<lb ed="#K" break="no"/>dos 
+                oratorem ipsum magis 
+                <lb ed="#K"/>etiam quam quemquam eorum 
+                <lb ed="#K"/>qui audiunt promouet.</quote>
+            </p>
+            <p xml:id="bHY6yh-d65839-d1e260"> 
+              <ref xml:id="bHY6yh-d65839-Rd1e266">Li. 
+              <lb ed="#K"/>3. et fi.</ref> <quote xml:id="bHY6yh-d65839-Qd1e262">Nunquam is qui 
+              <lb ed="#K"/>audiret intenderetur: 
+              <lb ed="#K"/>nisi ardens ad eum per<lb ed="#K" break="no"/>ueniret 
+              oratio</quote>
+            </p>
+            <p xml:id="bHY6yh-d65839-d1e270">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d65839-Rd1e281">Ouidius de tristibus: li. 5. e. 7.</ref> <quote xml:id="bHY6yh-d65839-Qd1e274">Non 
+              <lb ed="#K"/>mihi qui fateor penam 
+              <lb ed="#K"/>meruisse: sed illi Parcite qui 
+              <lb ed="#K"/>nullo digna dolore dolet.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
