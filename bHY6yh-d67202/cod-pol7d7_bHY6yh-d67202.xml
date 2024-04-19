@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rubrica 18 [Krakow, lat 700 III Transcription]</title>
+            <author ref="#per-c7y65a">Geremia da Montagnone</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+             <respStmt>
+               <name>Katrina Van Der Ahe</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Rubrica 18 [Krakow, lat 700 III Transcription]</title>
+               <date when="2024-04-17">April 17, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="K" n="cod-pol7d7">Krakow, Biblioteka Jagiellonska, MS lat. 700 III (CC.VIII.25)</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-18" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#K" n="146-r"/>
+            <cb ed="#K" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="bHY6yh-d67202"><!-- p3l6-r18 -->
+            <head xml:id="bHY6yh-d67202-Hd1e108">Rubrica 18</head>
+           <head xml:id="bHY6yh-d67202-Hd1e111" type="question-title">De electis inuentionibus rethoricis: que sunt aperta conuicia: et dicuntur etiam ledoria</head>
+          <p xml:id="bHY6yh-d67202-d1e114">
+            <lb ed="#K"/>De electis inuentionibus <!--review-->
+            <lb ed="#K"/>rethoricis que sunt apta 
+            <lb ed="#K"/>et dicuntur esse lesoria Rubrica. 18
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e125"> 
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e122">CRonica de nugis philosoporum. 
+              <lb ed="#K"/>c. 9 scilicet de anacharsi</ref> <quote xml:id="bHY6yh-d67202-Qd1e127">Anacharsis schita 
+              <lb ed="#K"/>vituperatus ab artico: quoniam 
+              <lb ed="#K"/>schita foret: sed mihi in<lb ed="#K" break="no"/>quit 
+              dedecus patria: tu vero 
+              <lb ed="#K"/>patrie.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e141">
+              <ref xml:id="bHY6yh-d67202-Rd1e141">15. c scilicet de anaxagora.</ref> <quote xml:id="bHY6yh-d67202-Qd1e145">Anaxa<lb ed="#K" break="no"/>goras 
+              ad dicentem: priuatus es athe<lb ed="#K" break="no"/>niensibus. 
+              nequaquam inquit 
+              <lb ed="#K"/>sed illi me</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e154"> 
+              <ref xml:id="bHY6yh-d67202-Rd1e154">17 c scilicet de so<lb ed="#K" break="no"/>crate.</ref> 
+              <quote xml:id="bHY6yh-d67202-Qd1e156">Socrates ad dicentem 
+              <lb ed="#K"/>talis maledicit tibi: bene 
+              <lb ed="#K"/>inquit non didicit.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e164"> 
+              <ref xml:id="bHY6yh-d67202-Rd1e168">24 t 
+              <lb ed="#K"/>de scilicet  bione.</ref> <quote xml:id="bHY6yh-d67202-Qd1e166">Bio ad pusilla<lb ed="#K" break="no"/>nimem 
+              diuitem ait: non hic 
+              <lb ed="#K"/>possidet opes: sed opes eum.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e174"> 
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e178">28 scilicet de aristotele:</ref> <quote xml:id="bHY6yh-d67202-Qd1e176">Aristoteles 
+              <lb ed="#K"/>ad gestientem: quia de magna
+              <lb ed="#K"/>ciuitate fuerat oriundus 
+              <lb ed="#K"/>ait: non hoc est attendendum: 
+              <lb ed="#K"/>sed quisnam dignus fit ma<lb ed="#K" break="no"/>gne 
+              patrie.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e186">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e195">Terentius in eunucho. c. 19.</ref> <quote xml:id="bHY6yh-d67202-Qd1e190">Ouem 
+              <lb ed="#K"/>lupo commisisti.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e196">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e207">Salustius inuectiua in tullium:</ref> 
+              <lb ed="#K"/> <quote xml:id="bHY6yh-d67202-Qd1e200">Grauiter et iniquo animo 
+              <lb ed="#K"/>maledicta tua paterem 
+              <lb ed="#K"/>marce tulli: si te scirem 
+              <lb ed="#K"/>iuditio magis quam morbo 
+              <lb ed="#K"/>anim petulantia insta vti. 
+              <lb ed="#K"/>Sed cum in te nec modum
+              <lb ed="#K"/>neque modestiam vllam animad<lb ed="#K" break="no"/>uerto: 
+              respondebo tibi vtsi 
+                <cb ed="#K" n="b"/>
+              <lb ed="#K"/>ut si quam maledicendo 
+              <lb ed="#K"/>voluptatem cepisti eam ma<lb ed="#K" break="no"/>ledicendo 
+              amittas.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e217">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e230">Tullius inuectiua in salustium:</ref> 
+              <lb ed="#K"/> <quote xml:id="bHY6yh-d67202-Qd1e221">Ea demum magna volup<lb ed="#K" break="no"/>tas 
+              tibi est crispe salusti: 
+              <lb ed="#K"/>equalem ac parem verbis 
+              <lb ed="#K"/>vitam agere: neque quicquam tam 
+              <lb ed="#K"/>abscenum dicere cui non ab 
+              <lb ed="#K"/>initio pueritie omni genere fa<lb ed="#K" break="no"/>cinoris 
+              etas tua respondeat 
+              <lb ed="#K"/>vt omnis oratio moribus con<lb ed="#K" break="no"/>sonet: 
+              neque enim qui ita 
+              <lb ed="#K"/>viuit vt tu aliter ac tu loqui 
+              <lb ed="#K"/>potest: neque qui tam illoto ser<lb ed="#K" break="no"/>mone 
+              vtitur vita hones<lb ed="#K" break="no"/>tior 
+              est.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e247">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e262">Ouidius de arte amandi: li. i. ad fi.</ref> <quote xml:id="bHY6yh-d67202-Qd1e251">Accipi<lb ed="#K" break="no"/>ti 
+              timidas credis furiose 
+              <lb ed="#K"/>columbas Montano plenum<lb ed="#K" break="no"/>que
+              credis ouile lupo.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e259">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e276">Idem de tristibus: li. 5. e. 9.</ref>
+              <lb ed="#K"/> <quote xml:id="bHY6yh-d67202-Qd1e263">Non adeo cecidi quamuis ab<lb ed="#K" break="no"/>iectus 
+              vt infra Te quoque 
+              <lb ed="#K"/>sim: inferius quo nihil esse potest.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e271">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e290">Lucanus: li. 2.</ref> <quote xml:id="bHY6yh-d67202-Qd1e275">Excessit me<lb ed="#K" break="no"/>dicina 
+              modum nimiumque 
+              <lb ed="#K"/>secuta est.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e281"> 
+              <ref xml:id="bHY6yh-d67202-Rd1e300"> <!--ommitted--> </ref>
+              <quote xml:id="bHY6yh-d67202-Qd1e283">Sola potest 
+              <lb ed="#K"/>libie turba prestare malorum.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e289">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e312">Ualerius maximus: li. 3. t. de fi<lb ed="#K" break="no"/>dutia 
+              sui.</ref> <quote xml:id="bHY6yh-d67202-Qd1e293">Euripides al<lb ed="#K" break="no"/>cestidi
+              tragico poete re<lb ed="#K" break="no"/>spondit 
+              probabile: apud 
+              <lb ed="#K"/>quem cum quereretur quod con<lb ed="#K" break="no"/>triduo 
+              non vltra tres 
+              <lb ed="#K"/>versus maximo inpenso 
+              <lb ed="#K"/>labore reducere potuisset: 
+              <lb ed="#K"/>atque ipse centum perfacile 
+              <lb ed="#K"/>scripsisse gloriaretur. sed 
+                <pb ed="#K" n="146-v"/>
+                <cb ed="#K" n="a"/>
+              <lb ed="#K" n="1"/>hoc inquit interest quod 
+              <lb ed="#K"/>tui in triduum tantummodo: mei 
+              <lb ed="#K"/>vero in omne tempus sufficienti.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e312">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e337">Li. 4. t. de abstinentia:</ref> <quote xml:id="bHY6yh-d67202-Qd1e316">Dio<lb ed="#K" break="no"/>genes 
+              syracusis cum olera 
+              <lb ed="#K"/>ei lauanti aristipus dix<lb ed="#K" break="no"/>isset:
+              Si dionysium adu<lb ed="#K" break="no"/>lari 
+              velles ista non adula<lb ed="#K" break="no"/>res 
+              dionysium.</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e329"> 
+             <ref xml:id="bHY6yh-d67202-Rd1e354">Lib. 6. t. li<lb ed="#K" break="no"/>bere 
+             dicta aut facta:</ref> <quote xml:id="bHY6yh-d67202-Qd1e331">El<lb ed="#K" break="no"/>ius 
+             mantia formianus 
+             <lb ed="#K"/>libertini silius vltime 
+             <lb ed="#K"/>senectutis lutium libionem 
+             <lb ed="#K"/>apud censores accu<lb ed="#K" break="no"/>sabat. 
+             In quo certamine. 
+             <lb ed="#K"/>cum pompeius magnus hu<lb ed="#K" break="no"/>militatem 
+             ei etatemque 
+             <lb ed="#K"/>exprobans ab inferis 
+             <lb ed="#K"/>Sed dum illuc morarer 
+             <lb ed="#K"/>vidi cruentem. cri. domicium 
+             <lb ed="#K"/>ac no bardum deflentem 
+             <lb ed="#K"/>quod summo genere natus 
+             <lb ed="#K"/>integerrime vite aman<lb ed="#K" break="no"/>tissimus 
+             patrie in ipso 
+             <lb ed="#K"/>iuuentutis flore tuo ius<lb ed="#K" break="no"/>su 
+             esset occisus Uidi pari 
+             <lb ed="#K"/>claritate conspicuum brutum 
+             <lb ed="#K"/>ferro laceratum querentem 
+             <lb ed="#K"/>id sibi prius perfidia et 
+             <lb ed="#K"/>deinde etiam crudelitate 
+             <lb ed="#K"/>tua accidisse vidi. cri. 
+             <lb ed="#K"/>carbonem accerrimum pue<lb ed="#K" break="no"/>ritie 
+             tue bonorumque patris 
+            <lb ed="#K"/>tui defensorem in tertio
+            <lb ed="#K"/>consulatum cathenis quas 
+            <lb ed="#K"/>tum ei iniici iusseras inuentum 
+            <lb ed="#K"/>obtestantem te aduersus 
+            <lb ed="#K"/>omne phas et nephas 
+            <lb ed="#K"/>cum in summo esset imperio a te 
+            <lb ed="#K"/>equite romano trucidatum: 
+            <lb ed="#K"/>Omnesque vna voce indig<lb ed="#K" break="no"/>nantes 
+            quod indempnati sub 
+            <lb ed="#K"/>adolescentulo carnifice 
+            <lb ed="#K"/>occidissent Obducta iam 
+            <lb ed="#K"/>vetustis cicatricibus bel<lb ed="#K" break="no"/>lorum 
+            ciuium vastissima 
+            <lb ed="#K"/>vulnera municipali homini
+            <lb ed="#K"/>seruitutem paternam redolenti 
+            <lb ed="#K"/>effrenate temeritatis in<lb ed="#K" break="no"/>tolerabilis 
+            spiritus impune 
+            <lb ed="#K"/>reuocare licuit. Itaque 
+            <lb ed="#K"/>eo tempore et fortissimum erat 
+            <lb ed="#K"/>gneo pompeio maledicere et tutissimum:</quote>
+            </p>
+            <p xml:id="bHY6yh-d67202-d1e400">
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d67202-Rd1e429">Heinricus samariensis: li. i. partur. 2.</ref> <quote xml:id="bHY6yh-d67202-Qd1e404">Tum 
+              <lb ed="#K"/>nimium tuus es: nimis 
+              <lb ed="#K"/>et tibi credis inepte.
+              <lb ed="#K"/>Et solus credis prouidus 
+              <lb ed="#K"/>esse cato.<sic>Pphilosophus</sic> nimis 
+              <lb ed="#K"/>es nimium platonior 
+              <lb ed="#K"/>ipso Ultra philosophos mens 
+              <lb ed="#K"/>tua sepe fluit.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
