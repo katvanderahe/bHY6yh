@@ -61,91 +61,93 @@
             <head xml:id="bHY6yh-d69411-Hd1e108">Rubrica 3</head>
             <head xml:id="bHY6yh-d69411-Hd1e111" type="question-title">De modo exigentie cuiusque proportionalitatis seu conformitatis</head>
             <p xml:id="bHY6yh-d69411-d1e114">
-              <lb ed="#K"/>De modo exigentie cuius<lb ed="#K" break="no"/>cumque
+                <pb ed="#K" n="151-v"/>
+                <cb ed="#K" n="a"/>
+              <lb ed="#K" n="1"/>De modo exigentie cuius<lb ed="#K" break="no"/>cumque
               proportionalitatis seu 
-              <lb ed="#K"/>conformitatis. Rubrica. 3
+              <lb ed="#K"/>conformitatis Rubrica 3 tertius
             </p>
             <p xml:id="bHY6yh-d69411-d1e123">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e120">ORatius in poetria</ref>Sumi<lb ed="#K" break="no"/>te 
+              <lb ed="#K"/>/ <ref xml:id="bHY6yh-d69411-Rd1e120">Oratius in poetria</ref> /<quote>Sumi<lb ed="#K" break="no"/>te 
               materiam vestris qui 
               <lb ed="#K"/>scribitis equam viribus 
-              <lb ed="#K"/>qui sa et versate diu quid fere <!--review-->
-              <lb ed="#K"/>recusent Quid valeant humeri
+              <lb ed="#K"/>qui sa te diu quid fere 
+              <lb ed="#K"/>recusent quid valeant humeri</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e136">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e134">Idem in epistolis li. i. e. 7.</ref> <quote xml:id="bHY6yh-d69411-Qd1e140">Paruum 
-              <lb ed="#K"/>parua decent.</quote> 
+              <lb ed="#K"/> /<ref xml:id="bHY6yh-d69411-Rd1e134">Idem in epistolis libro i epistola 7</ref> <quote xml:id="bHY6yh-d69411-Qd1e140">paruum 
+              <lb ed="#K"/>parua decent</quote> 
             </p>
             <p xml:id="bHY6yh-d69411-d1e145">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e148">Ouidius de remedio amoris: li. 2. 
-              <lb ed="#K"/>et fina.</ref> <quote xml:id="bHY6yh-d69411-Qd1e149">Infirmis culpa pusil<lb ed="#K" break="no"/>la 
-              nocet Nutritur vento: 
+              <lb ed="#K"/>¶ <ref xml:id="bHY6yh-d69411-Rd1e148">Ouidius de remedio amoris libro 2 
+              <lb ed="#K"/>et fina</ref> <quote xml:id="bHY6yh-d69411-Qd1e149">infirmis culpa pusil<lb ed="#K" break="no"/>la 
+              nocet nutritur vento
               <lb ed="#K"/>vento restringitur ignis Le<lb ed="#K" break="no"/>uis 
-              alit flammas: gran<lb ed="#K" break="no"/>dior 
-              aura necat.</quote>
+              alit flammas gran<lb ed="#K" break="no"/>dior 
+              aura negat</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e159">
-               <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e164">Paulus apostolus: epistola. 2. ad corinthios. 
-               <lb ed="#K"/>c. 9.</ref> <quote xml:id="bHY6yh-d69411-Qd1e163">Qui parce seminat 
+               <lb ed="#K"/>¶ <ref xml:id="bHY6yh-d69411-Rd1e164">Paulus Apostolus epistola 2 ad corinthios 
+               <lb ed="#K"/>capitulo 9</ref> /<quote xml:id="bHY6yh-d69411-Qd1e163">Qui parce seminat 
                <lb ed="#K"/>parce et metet</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e169">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e177">Seneca epistolarum ad lucillum: li. 19. e 2.</ref> 
+              <lb ed="#K"/>¶ <ref xml:id="bHY6yh-d69411-Rd1e177">Seneca epistolarum ad lucillum libro 19 epistola 2</ref> 
               <lb ed="#K"/> <quote xml:id="bHY6yh-d69411-Qd1e173">Aptari corpus viribus debet 
               <lb ed="#K"/>nec plus occupari quam
-              <lb ed="#K"/>cui sufficere possumus.</quote>
+              <lb ed="#K"/>cui sufficere possumus</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e181">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e190">Idem de tranquill: tate animi:</ref> 
-              <lb ed="#K"/> <quote xml:id="bHY6yh-d69411-Qd1e183">Necesse est opprimant onera
+              <lb ed="#K"/>/ <ref xml:id="bHY6yh-d69411-Rd1e190">Idem de tranquill tate animi</ref> 
+              <lb ed="#K"/> <quote xml:id="bHY6yh-d69411-Qd1e183">necesse est opprimant onera
               <lb ed="#K"/>que ferente maiora sunt</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e195">
-               <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e209">Cato capitulo. 4.</ref> <quote xml:id="bHY6yh-d69411-Qd1e199">Quod potes 
+               <lb ed="#K"/>/ <ref xml:id="bHY6yh-d69411-Rd1e209">Cato capitulo 4</ref> /<quote xml:id="bHY6yh-d69411-Qd1e199">Quod potes 
                <lb ed="#K"/>id tenta operis ne pon<lb ed="#K" break="no"/>dere 
-               pressus Succumbat 
+               pressus /Succumbat 
                <lb ed="#K"/>labor et frustra tentata 
-               <lb ed="#K"/>relinquas.</quote>
+               <lb ed="#K"/>relinquas</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e207">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e223">Cassiodorus: epistolarum: lib. 8. e. 20.</ref> <quote xml:id="bHY6yh-d69411-Qd1e211">Con<lb ed="#K" break="no"/>trariis 
+              <lb ed="#K"/>¶ <ref xml:id="bHY6yh-d69411-Rd1e223">Cassiodorus epistolarum libro 8 epistola 20</ref> /<quote xml:id="bHY6yh-d69411-Qd1e211">Con<lb ed="#K" break="no"/>trariis 
               rebus plerunque 
-              <lb ed="#K"/>medicina paratur.</quote>
+              <lb ed="#K"/>medicina paratur</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e220">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e238">Baldo. 29 fab.</ref> <quote xml:id="bHY6yh-d69411-Qd1e224">Non vltra vires 
+              <lb ed="#K"/>¶ <ref xml:id="bHY6yh-d69411-Rd1e238">Baldo 29 fab</ref> <quote xml:id="bHY6yh-d69411-Qd1e224">non vltra vires 
                 <cb ed="#K" n="b"/>
-              <lb ed="#K"/>discant presumere viles.</quote>
+              <lb ed="#K"/>discant presumere viles</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e230">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e250">Gualterius de castellione: li. 10. 
-              <lb ed="#K"/>et fi.</ref> <quote xml:id="bHY6yh-d69411-Qd1e234">Sic se conformet me<lb ed="#K" break="no"/>ritis 
-              cuiusque gethea Ut 
-              <lb ed="#K"/>qui deliquit leuius: leui<lb ed="#K" break="no"/>oribus 
-              ille Subiaceat 
-              <lb ed="#K"/>penis: et qui grauiore reatu
-              <lb ed="#K"/>Excessit grauius: grauio<lb ed="#K" break="no"/>rem 
-              sentiat ignem.</quote>
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e250">Gualterius de castellione libro 10 
+              <lb ed="#K"/>et fi</ref> <quote xml:id="bHY6yh-d69411-Qd1e234">sic se conformet me<lb ed="#K" break="no"/>ritis 
+              cuiusque gethea ut 
+              <lb ed="#K"/>qui deliquit leuius leui<lb ed="#K" break="no"/>oribus 
+              ille / Subiaceat 
+              <lb ed="#K"/>penis et qui grauiore reatu
+              <lb ed="#K"/>Excessit grauius grauio<lb ed="#K" break="no"/>rem 
+              sentiat ignem</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e246">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e268">Gaufridus in poetria. c. 31.</ref> <quote xml:id="bHY6yh-d69411-Qd1e250">Gressus 
-              <lb ed="#K"/>precurrant oculi: preconsule 
-              <lb ed="#K"/>mentem Et vires me<lb ed="#K" break="no"/>tire 
-              tuas: si fortis es 
-              <lb ed="#K"/>aude Grandia. si fragilis: 
+              <lb ed="#K"/>¶ <ref xml:id="bHY6yh-d69411-Rd1e268">Gaufridus in poetria capitulo 31</ref> <quote xml:id="bHY6yh-d69411-Qd1e250">Gressus 
+              <lb ed="#K"/>precurrant oculi preconsule 
+              <lb ed="#K"/>mentem /Et vires me<lb ed="#K" break="no"/>tire 
+              tuas si fortis es 
+              <lb ed="#K"/>aude grandia si fragilis
               <lb ed="#K"/>humeri impone minora 
-              <lb ed="#K"/>Si mediocris: ama me<lb ed="#K" break="no"/>diocria: 
+              <lb ed="#K"/>/ Si mediocris ama me<lb ed="#K" break="no"/>diocria
               sumere noli Que
-              <lb ed="#K"/>quando sumis praesumas in omnibus ima.
-              <lb ed="#K"/>Est vertus servuare modum 
-              <lb ed="#K"/>memor imprime menti.</quote>
+              <lb ed="#K"/>quando sumis praesumas in omnibus ima
+              <lb ed="#K"/>/ Est vertus servuare modum 
+              <lb ed="#K"/>memor imprime menti</quote>
             </p>
             <p xml:id="bHY6yh-d69411-d1e267">
-              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e291">Prouerb. vulg.</ref> <quote xml:id="bHY6yh-d69411-Qd1e271">A carne de louo 
-              <lb ed="#K"/>salsa de cane. Acotal mol<lb ed="#K" break="no"/>ton 
-              cotal bocon. Chi a 
+              <lb ed="#K"/> <ref xml:id="bHY6yh-d69411-Rd1e291">prouerb vulg</ref> /<quote xml:id="bHY6yh-d69411-Qd1e271">A carne de louo 
+              <lb ed="#K"/>salsa de cane acotal mol<lb ed="#K" break="no"/>ton 
+              cotal bocon /Chi a 
               <lb ed="#K"/>lo laro vole enuolare 
-              <lb ed="#K"/>laro conuene essere.</quote>
+              <lb ed="#K"/>laro conuene essere</quote>
             </p>
          </div>
       </body>
